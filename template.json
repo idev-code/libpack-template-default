@@ -15,6 +15,9 @@
         "link":"libpacks link",
         "test":"libpacks test"
       }
-    }
+    },
+    "workspaces": [
+      "libs/*"
+    ]
   }
   
