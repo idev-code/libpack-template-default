@@ -9,7 +9,7 @@
   "description": "The base template for Lib Pack.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/idev-9987/libpack-template-default.git",
+    "url": "https://github.com/idev-code/libpack-template-default.git",
     "directory": "libpack-template-default"
   },
   "license": "MIT",
@@ -17,7 +17,7 @@
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/idev-9987/libpack-template-default/issues"
+    "url": "https://github.com/idev-code/libpack-template-default/issues"
   },
   "files": [
     "template",
