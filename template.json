@@ -10,6 +10,7 @@
         "extends": ["react-app", "react-app/jest"]
       },
       "scripts":{
+        "start":"libpacks start",
         "build":"libpacks build",
         "install":"libpacks install",
         "link":"libpacks link",
